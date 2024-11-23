@@ -8,7 +8,7 @@ Original file is located at
 """
 
 import pandas as pd
-from IPython.display import display
+
 from google.colab import files
 import pandas as pd
 import io
